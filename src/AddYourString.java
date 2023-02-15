@@ -8,7 +8,7 @@ public class AddYourString {
     }
 
     static String CConradMsg() {
-        return "";
+        return "Hello";
     }
 
     static String SDouglassMsg() {
