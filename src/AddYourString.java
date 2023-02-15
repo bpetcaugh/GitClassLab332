@@ -44,7 +44,7 @@ public class AddYourString {
     }
 
     static String LNguyenMsg() {
-        return "";
+        return "Hi";
     }
 
     static String CRudloffMsg() {
