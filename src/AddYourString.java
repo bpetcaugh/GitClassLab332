@@ -24,7 +24,7 @@ public class AddYourString {
     }
 
     static String MKaromoMsg() {
-        return "";
+        return "Mark Kim's Version ctrl 2.0";
     }
 
     static String EKimMsg() {
