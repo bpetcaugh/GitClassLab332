@@ -36,7 +36,7 @@ public class AddYourString {
     }
 
     static String NLofgrenMsg() {
-        return "";
+        return "Time makes fools outta all of us";
     }
 
     static String DNgangaMsg() {
