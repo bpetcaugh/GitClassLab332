@@ -60,7 +60,7 @@ public class AddYourString {
     }
 
     static String DZhaoMsg() {
-        return "";
+        return "missed class TT";
     }
 
     public static void main(String[] args) {
