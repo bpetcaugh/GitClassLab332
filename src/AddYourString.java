@@ -28,7 +28,7 @@ public class AddYourString {
     }
 
     static String EKimMsg() {
-        return "New String";
+        return "New String. Another String.";
     }
 
     static String AKondratyukMsg() {
