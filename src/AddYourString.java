@@ -1,6 +1,6 @@
 public class AddYourString {
     static String ProfPetcaughMsg() {
-        return "Version control rocks!";
+        return "Version control rocks! Class two of Git!";
     }
 
     static String NCioneMsg() {
