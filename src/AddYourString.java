@@ -12,7 +12,7 @@ public class AddYourString {
     }
 
     static String SDouglassMsg() {
-        return "";
+        return "Hey all";
     }
 
     static String CEelmanMsg() {
