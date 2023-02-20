@@ -48,7 +48,7 @@ public class AddYourString {
     }
 
     static String CRudloffMsg() {
-        return "Battleship";
+        return "Conway's game of life";
     }
 
     static String GSeidelMsg() {
