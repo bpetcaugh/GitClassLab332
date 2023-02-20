@@ -24,7 +24,7 @@ public class AddYourString {
     }
 
     static String MKaromoMsg() {
-        return "Mark Kim's Version ctrl 2.0";
+        return "Mark Kim's Version ctrl 2.1 expansion pack";
     }
 
     static String EKimMsg() {
