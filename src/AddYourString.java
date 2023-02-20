@@ -16,7 +16,7 @@ public class AddYourString {
     }
 
     static String CEelmanMsg() {
-        return "this is Chris";
+        return "this is Chris, i changed this twice. ";
     }
 
     static String JFiaccoMsg() {
