@@ -9,8 +9,11 @@ public class NathanielLofgren {
 
     //Website: https://edabit.com/challenge/QCgoxbd32BqFr6AY7
     public static String fizzBuzz(int n) {
+        if ((n % 3 == 0) && (n % 5 == 0)){ return "FizzBuzz";}
+        if (n % 5 == 0){ return "Buzz";}
+        if (n % 3 == 0){ return "Fizz";}
+        else { return String.valueOf(n);}
 
-        return "sample answer";
     }
 
     //Website: https://edabit.com/challenge/rzpucPyoyEtXPo2BG
