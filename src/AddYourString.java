@@ -20,7 +20,7 @@ public class AddYourString {
     }
 
     static String JFiaccoMsg() {
-        return "";
+        return "String Change";
     }
 
     static String MKaromoMsg() {
