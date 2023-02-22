@@ -1,34 +1,34 @@
 public class AddYourString {
     static String ProfPetcaughMsg() {
-        return "Version control rocks!";
+        return "Version control rocks! Class two of Git!";
     }
 
     static String NCioneMsg() {
-        return "";
+        return "Nico Cione";
     }
 
     static String CConradMsg() {
-        return "";
+        return "Hello!!!!";
     }
 
     static String SDouglassMsg() {
-        return "";
+        return "Hey all";
     }
 
     static String CEelmanMsg() {
-        return "";
+        return "this is Chris, i changed this twice. ";
     }
 
     static String JFiaccoMsg() {
-        return "";
+        return "String Change";
     }
 
     static String MKaromoMsg() {
-        return "";
+        return "Mark Kim's Version ctrl 2.1 expansion pack";
     }
 
     static String EKimMsg() {
-        return "";
+        return "New String. Another String.";
     }
 
     static String AKondratyukMsg() {
@@ -36,11 +36,11 @@ public class AddYourString {
     }
 
     static String NLofgrenMsg() {
-        return "";
+        return "Time makes fools outta all of us";
     }
 
     static String DNgangaMsg() {
-        return "";
+        return "United are back";
     }
 
     static String LNguyenMsg() {
@@ -48,15 +48,15 @@ public class AddYourString {
     }
 
     static String CRudloffMsg() {
-        return "";
+        return "Conway's game of life";
     }
 
     static String GSeidelMsg() {
-        return "";
+        return "Hi :)";
     }
 
     static String BWilliamsMsg() {
-        return "";
+        return "Brett W.";
     }
 
     static String DZhaoMsg() {
