@@ -52,7 +52,7 @@ public class AddYourString {
     }
 
     static String GSeidelMsg() {
-        return "";
+        return "Hi :)";
     }
 
     static String BWilliamsMsg() {
